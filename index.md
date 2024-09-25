@@ -30,7 +30,10 @@ Chris Wilcox is a regional road racer participating in [WMRRA](https://wmrra.com
 
 Chris is also a long-time volunteer of WMRRA and serves on its Board of Directors. You can find him most race weekends at Friday night tech, making sure machinery and gear are in order for the weekend's events.
 
-When not racing Chris works with [Track Time](https://tracktime.bike/), a premier track day provider in Washington State.
+Chris is sponsored by [KYT](https://chriswilcox.racing/img/sponsors/kyt.png) and [Track Time](https://tracktime.bike/) where he instructs.
+
+![](/img/chris-2024-aprilia.jpg)
+
 
 ### Colin Carihill
 
