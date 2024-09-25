@@ -41,7 +41,7 @@ Chris is sponsored by [KYT](https://chriswilcox.racing/img/sponsors/kyt.png) and
 
 ### Louis Stevenson 
 
-<img src="/img/20240527-TrackTime-Ridge-0865.jpg" height=500/>
+<img src="/img/louis-20240527-TrackTime-Ridge-0865.jpg" height=500/>
 
 
 Louis is hard to photograph, him being the photographer and all, but every once
