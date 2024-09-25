@@ -15,7 +15,7 @@ Short Circuit Racing is a Washington based racing team that has participated in
  events with various motorcycle racing organizations such as WMRRA, OMRRA, CRA,
  AFM, and more.
 
-We have a sister team, [Short Fuse Racing](https://shortfuseracing.com)
+Short Circuit Racing has a sister team, [Short Fuse Racing](https://shortfuseracing.com)
 
 <!-- ![](/img/team-photo.jpg) -->
 
