@@ -41,8 +41,41 @@ Chris is sponsored by [KYT](https://chriswilcox.racing/img/sponsors/kyt.png) and
 
 ### Louis Stevenson 
 
-<img src="/img/stevensonfoto.jpg" height=500/>
+<img src="/img/20240527-TrackTime-Ridge-0865.jpg" height=500/>
 
 
-Louis is hard to photograph, him being the photographer and all.
+Louis is hard to photograph, him being the photographer and all, but every once
+and a while someone else will snap a shot. Like this one, of him on his rather
+custom Triumph 675 build.
 
+Louis wears many hats. Racer, Photographer, WMRRA Race Referee. You can find Louis
+roaming around the track or paddock at any PNW race weekend.
+
+
+
+# Thank you to all of the sponsors that support our racing.
+
+
+
+<table>
+  <tr>
+     <a href="http://stevensonfoto.com">
+      <img height=200 src="/img/sponsors/stevensonfoto.jpg" />
+    </a>
+    <a href="https://kytamericas.com">
+      <img height=100 src="/img/sponsors/kyt.png" />
+    </a>
+    <a href="http://tracktime.bike">
+      <img height=200 src="/img/sponsors/tracktime.png" />
+    </a>
+    <a href="http://ctracingservices.com">
+      <img height=200 src="/img/sponsors/ctr-pirelli-logo-square.jpg" />
+    </a>
+    <a href="http://woodcraft-cfm.com">
+      <img height=200 src="/img/sponsors/woodcraft.jpg" />
+    </a>
+    <a href="https://shortfuseracing.com">
+      <img height=200 src="/img/sponsors/short_fuse.png" />
+    </a>
+  </tr>
+</table>
