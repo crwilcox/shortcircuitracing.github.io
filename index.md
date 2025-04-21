@@ -26,7 +26,7 @@ Short Circuit Racing has a sister team, [Short Fuse Racing](https://shortfuserac
 
 ![](/img/chris-2021-gearing-up.jpg)
 
-Chris Wilcox is a regional road racer participating in [WMRRA](https://wmrra.com) (Washington Motorcycle Road Racing Association) and [OMRRA](https://omrra.com) (Oregon Motorcycle Road Racing Association), participating in Formula 600, 600 Supersport, and 600 Superbike clases.
+Chris Wilcox is a regional road racer participating in [WMRRA](https://wmrra.com) (Washington Motorcycle Road Racing Association) and [OMRRA](https://omrra.com) (Oregon Motorcycle Road Racing Association), participating in Twins Classes aboard an Aprilia RS660. He previously raced Formula 600, 600 Supersport, and 600 Superbike classes.
 
 Chris is also a long-time volunteer of WMRRA and serves on its Board of Directors. You can find him most race weekends at Friday night tech, making sure machinery and gear are in order for the weekend's events.
 
